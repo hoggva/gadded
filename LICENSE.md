@@ -33,7 +33,7 @@ This license constitutes the entire agreement between the Licensee and the devel
 
 ## Contact Information:
 
-For inquiries related to Gadded or this license agreement, please contact the developer at [developer@example.com](mailto:developer@example.com).
+For inquiries related to Gadded or this license agreement, please contact the developer at [victorkolis@duck.com](mailto:victorkolis@duck.com).
 
 ## All Rights Reserved:
 
