@@ -1,5 +1,6 @@
 # gadded
 
+```
 gadded/
 │
 ├── assets/
@@ -43,3 +44,4 @@ gadded/
 │   └── ...
 │
 └── build/
+```
